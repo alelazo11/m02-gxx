@@ -1,0 +1,118 @@
+body{background-color: lavenderblush;
+width: 100vw;
+}
+
+.caja {background-color: white;
+width: 500px;
+height: 300px;
+margin: 10px;}
+
+
+.franja1 {background-color: blue;
+width: 330px;
+height: 40px;
+margin-top: 30px;
+margin-left: 170px;
+position: relative;}
+
+.franja2 {background-color: blue;
+width: 330px;
+height: 40px;
+margin-top: 30px;
+margin-left: 170px;
+position: relative;}
+
+.franja3 {background-color: blue;
+width: 500px;
+height: 40px;
+margin-top: 30px;
+position: relative;}
+
+.franja4 {background-color: blue;
+width: 500px;
+height: 40px;
+margin-top: 30px;
+position: relative;}
+
+.sol {position: absolute;
+margin-left:30px ;
+margin-top: 30px;
+position: absolute;}
+
+#suecia {background-color: #3659BF;}
+
+.f1 {background-color: #F5DD0E;
+width: 500px;
+height: 54px;
+margin-top: 124px;
+position: absolute;}
+
+.f2 {background-color: #F5DD0E;
+width: 53px;
+height: 300px;
+left: 150px;
+margin-top: 0px;
+position: relative;}
+
+/* Grecia */
+
+#grecia {background-color: royalblue;
+}
+
+.fra1 {background-color: white;
+width: 330px;
+height: 30px;
+margin-top: 33px;
+margin-left: 170px;
+position: absolute;}
+
+.fra2 {background-color: white;
+width: 330px;
+height: 30px;
+margin-top: 95px;
+margin-left: 170px;
+position: absolute;}
+
+.fra3 {background-color: white;
+width: 500px;
+height: 30px;
+margin-top: 160px;
+position: absolute;}
+
+.fra4 {background-color: white;
+width: 500px;
+height: 30px;
+margin-top: 230px;
+position: absolute;}
+
+.fra5 {background-color: white;
+width: 170px;
+height: 31px;
+margin-top: 64px;
+position: absolute;}
+
+.fra6 {background-color: white;
+width: 30px;
+height: 170px;
+left: 70px;
+margin-top: 0px;
+position: relative;}
+
+#portugal {background-color: red;
+ position: absolute;}
+
+ .fr1 {background-color: forestgreen;
+width: 200px;
+height:300px;
+margin-top:0px;
+position: static;}
+
+.escudo {position: absolute;
+margin-left:126px ;
+margin-top: 70px;}
+
+
+
+
+
+
